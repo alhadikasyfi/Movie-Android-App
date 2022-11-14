@@ -17,10 +17,10 @@ Use this Instead
 ## Feature
 1. Login and Register
 2. Home Movie
-3. Search Movie
+3. Search Movie<br />
 Just write the name of movie that you want to search, then click the search icon.
-4. Favorite Movie
+4. Favorite Movie<br />
 To add movie to favorite list, just go and click the movie poster and click floating action (FAB) button there. 
 5. Profile
-## Screenshots
-![Login Fragment](https://github.com/alhadikasyfi/Screenshots/blob/main/LoginFragment.png)
+## Demo App on Youtube
+[Youtube.com](https://www.youtube.com/watch?v=GobEGPsMXdU)
