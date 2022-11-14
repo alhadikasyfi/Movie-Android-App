@@ -1,45 +1,27 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+# Movies App
+This project was created for the recruitment purpose to be an Android developer Intern at [campaign](http://campaign.com/team).
+This app is powered by [www.themoviedb.org](www.themoviedb.org) movie db api
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+## About App
+This app uses [Firebase realtime Database](https://firebase.google.com/) to restore users data and authenticate them, also This app uses [www.themoviedb.org](www.themoviedb.org) to get various sources.
+It uses [Retrofit 2](http://square.github.io/retrofit/) to fetch news sources and news headlines from the API and displays in a RecyclerView.
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
 
----
+## Build Technology
+- Navigation Component
+- Retrofit
+- Firebase realtime database
 
-## Edit a file
+## How to Login
+You can register if you want, but if you don't, <br />
+**UserName : admin**<br />
+**Password : admin**<br />
+Use this Instead
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+## Feature
+1. Login and Register
+2. Home Movie
+3. Search Movie
+4. Favorite Movie
+5. Profile
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
-
----
-
-## Create a file
-
-Next, you’ll add a new file to this repository.
-
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
-
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
-
----
-
-## Clone a repository
-
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
-
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
-
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
