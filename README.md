@@ -23,4 +23,4 @@ Just write the name of movie that you want to search, then click the search icon
 To add movie to favorite list, just go and click the movie poster and click floating action (FAB) button there. 
 5. Profile
 ## Screenshots
-
+![Login Fragment](https://github.com/alhadikasyfi/Screenshots/blob/main/LoginFragment.png)
