@@ -3,7 +3,7 @@ package id.campaign.moviesapp.utils
 // berisi semua konstanta yang dibutuhkan untuk menjalankan aplikasi
 object Constants {
     //API
-    const val API_KEY = "63cbef2f4b87346ded6c92d8bd70ab25"
+    const val API_KEY = "63cbef2f4b80346ded6c92e8bd70ab35"
     const val BASE_URL ="https://api.themoviedb.org/3/"
     const val POSTER_BASE_URL ="https://image.tmdb.org/t/p/w342"
 
