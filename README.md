@@ -18,10 +18,12 @@ It uses [Retrofit 2](http://square.github.io/retrofit/) to fetch news sources an
 - Retrofit
 - Firebase realtime database
 ## How to Login
-You can register if you want, but if you don't, <br />
+You need to make an account at www.themoviedb.org and then get the API key there. <br/>
+After that, you need to change the APIKey at utils/Constants.kt file. <br/>
+then You can register if you want, but if you don't, <br />
 **UserName : admin**<br />
 **Password : admin**<br />
-Use this Instead
+Use this Instead to login to the application
 ## Feature
 1. Login and Register
 2. Home Movie
